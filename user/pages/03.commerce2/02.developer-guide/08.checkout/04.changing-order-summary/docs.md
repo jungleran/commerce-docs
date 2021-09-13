@@ -26,4 +26,4 @@ There is no user interface for changing the view provided. The view is added by 
     }
 ```
 
-To use a completely different view, you will need to use `hook_form_alter` to change the view name, or a provide a custom checkout flow plugin. 
+To use a completely different view, you will need to use `hook_form_alter` to change the view name, or to provide a custom checkout flow plugin. 
